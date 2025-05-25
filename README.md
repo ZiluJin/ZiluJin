@@ -1,4 +1,13 @@
-## Hi there 👋
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=25&pause=1000&color=2700F9&background=F6C4FF00&center=true&vCenter=true&random=true&width=435&lines=WELCOME+TO+MY+SPACE" alt="Typing SVG" /></a>
+</p>
+<!-- 加入横幅 -->
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmR6YmwxY2N4cnQ1b3NnZjE4MmFpNzU5NDRob3IwbnQ5NjB4djE2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/szaTML0LZFAQa3do7Y/giphy.gif" width="80"/>
+  <img src="Banner.jpg" width="700"/>
+  <img src="右边动态GIF链接" width="80"/>
+</p>
 
 <!--
 **ZiluJin/ZiluJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
