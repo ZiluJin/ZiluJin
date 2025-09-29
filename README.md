@@ -52,10 +52,14 @@
 ---------------------
 ### :fire:Projects
 Here, I document a summary of my projects in the different fields.
-<!--Table of contents:
-- [Data Mining](# DATA Mining)-->
-#### Data Mining
 
-#### Machine Learning/Deep Learning
+#### Data Science/Analyse
+- [**Online Discussion of Aphantasia/Hyperphantasia Analysis**](https://github.com/ZiluJin/Online-Discussion-of-Aphantasia-and-Hyperphantasia)  
+  NLP project analyzing Reddit/TikTok discussions using **LDA, BERTopic, RoBERTa sentiment**.
+- [**Bank Churn Prediction**](https://github.com/ZiluJin/Bank-Churn-Classification-Neural-Network-XGBoost)  
+   I employ multiple machine learning models (XGBoost, DNN, Random Forest, etc.) and optimize their performance using hyperparameter tuning (GridSearchCV).
 
-#### Other Development
+
+#### Computer Vision
+- [**SIFT-Harris-vs-CNN**](https://github.com/ZiluJin/SIFT-Harris-vs-CNN)  
+  This project compares traditional computer vision methods (SIFT, Harris + SIFT + BoW + SVM) with a lightweight CNN model on CIFAR-10 and iCubWorld1.0 datasets for image classification. It includes accuracy evaluation, parameter tuning, and analysis of generalization and robustness.
