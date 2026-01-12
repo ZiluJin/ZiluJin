@@ -53,7 +53,7 @@
 ### :fire:Projects
 Here, I document a summary of my projects in the different fields.
 
-#### Data Science/Analyse
+#### Data Science/Analysis
 - [**End-to-end-car-price-prediction**](https://github.com/ZiluJin/End-to-end-car-price-prediction)
   Full-stack machine learning website that predicts used-car market prices, using **HTML, CSS, Javascript, Python, Flask, AWS**.
 - [**Online Discussion of Aphantasia/Hyperphantasia Analysis**](https://github.com/ZiluJin/Online-Discussion-of-Aphantasia-and-Hyperphantasia)  
