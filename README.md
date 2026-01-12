@@ -65,3 +65,8 @@ Here, I document a summary of my projects in the different fields.
 #### Computer Vision
 - [**SIFT-Harris-vs-CNN**](https://github.com/ZiluJin/SIFT-Harris-vs-CNN)  
   This project compares traditional computer vision methods (SIFT, Harris + SIFT + BoW + SVM) with a lightweight CNN model on CIFAR-10 and iCubWorld1.0 datasets for image classification. It includes accuracy evaluation, parameter tuning, and analysis of generalization and robustness.
+
+#### Others
+- [**Unity3D_RPG_Game**](https://github.com/ZiluJin/Unity3D_RPG_Game)
+  A Unity3D-based RPG demo featuring narrative-driven gameplay, including enemy AI with multiple states, third-person character control, and dynamic camera systems, built to explore storytelling through interactive game mechanics.
+
